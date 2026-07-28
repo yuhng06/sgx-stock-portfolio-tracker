@@ -30,6 +30,7 @@ Harvard CS50P and Kaggle.
 - Price trend chart with MA crossover signals
 
 ## Sample output
+<img width="1488" height="738" alt="Screenshot 2026-07-28 204541" src="https://github.com/user-attachments/assets/49bb8710-4f14-47d6-ab28-dd1bde4c3adc" />
 
 
 ## Core code
