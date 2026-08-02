@@ -104,8 +104,7 @@ DBS maintained a consistent BULLISH signal throughout, with
 the 20-day MA remaining above the 50-day MA.
 
 ## Author
-Lee Yu Hng 
-
+Lee Yu Hng  
 Incoming NUS Business Analytics (Aug 2027)  
 NUS Undergraduate Scholar  
 www.linkedin.com/in/yuhng-lee-404709404
